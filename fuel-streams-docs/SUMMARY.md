@@ -44,15 +44,9 @@
 
 ## Integration Guides
 
-* [Frontend Integration](integration/frontend.md)
-* [Backend Integration](integration/backend.md)
-* [Wallet Integration](integration/wallets.md)
-* [Third-Party APIs](integration/apis.md)
-* [Enterprise Solutions](integration/enterprise.md)
+* [Bako Integration](integration/bako.md)
 
 ## Comparisons & Analysis
 
-* [vs Traditional Finance](comparisons/traditional-finance.md)
-* [vs Other Blockchains](comparisons/blockchain-comparison.md)
-* [vs Existing Payment Streams](comparisons/payment-streams.md)
-* [Market Analysis](comparisons/market-analysis.md)
+* [vs Traditional Finance](comparisons/vs-ethereum.md)
+* [vs Other Blockchains](comparisons/vs-solana.md)
